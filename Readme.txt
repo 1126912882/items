@@ -3,4 +3,4 @@
 1.规划表
 2.树洞
 
-后端技术栈：spring+springmvc
+后端技术:springmvc
